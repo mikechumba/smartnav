@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "smartnav.netlify.com/static/css/main.27610e02.chunk.css",
+    "main.js": "smartnav.netlify.com/static/js/main.a1e6f3b5.chunk.js",
+    "main.js.map": "smartnav.netlify.com/static/js/main.a1e6f3b5.chunk.js.map",
+    "runtime~main.js": "smartnav.netlify.com/static/js/runtime~main.b3d069e7.js",
+    "runtime~main.js.map": "smartnav.netlify.com/static/js/runtime~main.b3d069e7.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "smartnav.netlify.com/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "smartnav.netlify.com/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "smartnav.netlify.com/index.html",
+    "precache-manifest.ab250138fdadccbd4ebd1e1ebf72ee65.js": "smartnav.netlify.com/precache-manifest.ab250138fdadccbd4ebd1e1ebf72ee65.js",
+    "service-worker.js": "smartnav.netlify.com/service-worker.js",
+    "static/css/main.27610e02.chunk.css.map": "smartnav.netlify.com/static/css/main.27610e02.chunk.css.map",
+    "static/media/cane_handle.png": "smartnav.netlify.com/static/media/cane_handle.46862a1d.png"
+  }
+}
