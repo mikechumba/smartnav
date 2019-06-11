@@ -1,0 +1,29 @@
+$font: 'Raleway', sans-serif;
+
+@mixin fonts($size,$color,$weight: 400,$family: $font) {
+   font-family: $family;
+   font-size: $size;
+   font-weight: $weight;
+   color: $color;
+}
+
+h1 {
+   @include fonts(64px,#000,400);
+}
+
+h2 {
+   @include fonts(40px,#000);
+}
+
+h3 {
+   @include fonts(20px,#000);
+}
+
+p {
+   @include fonts(14px,#000,400);
+}
+
+a {
+   @include fonts(14px,#000,400);
+   text-decoration: none;
+}
